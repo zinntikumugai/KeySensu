@@ -1,0 +1,8 @@
+{
+    "prefix": "/",
+    "ping": {
+        "enable": false,
+        "port": "10000"
+    },
+    "sensu_api_key": ""
+}
