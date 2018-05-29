@@ -1,0 +1,30 @@
+{
+  "name": "keysensu",
+  "version": "1.0.0",
+  "description": "Keybase Sensu Client.",
+  "main": "realtime.js",
+  "dependencies": {
+    "http": "^0.0.0",
+    "keybase-chat-bot": "^1.0.1",
+    "sensu.js": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zinntikumugai/KeySensu.git"
+  },
+  "keywords": [
+    "Sensu",
+    "TipBot",
+    "Keybase"
+  ],
+  "author": "zinntikumugai <uesitananame55@gmail.com> (http://zinntikumugai.com)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/zinntikumugai/KeySensu/issues"
+  },
+  "homepage": "https://github.com/zinntikumugai/KeySensu#readme"
+}
